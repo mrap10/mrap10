@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coder-Abhi10
-- 👀 I’m a newbie keen to explore thw bermuda triangle of coding. 
+- 👀 I’m a newbie keen to explore the bermuda triangle of coding. 
 - 🌱 I’m currently learning C++
 - 📫 https://www.instagram.com/abhii.panthi
 
